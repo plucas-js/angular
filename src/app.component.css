@@ -1,0 +1,10 @@
+h1 {
+  color: #1976d2;
+}
+a {
+  color: #42a5f5;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
